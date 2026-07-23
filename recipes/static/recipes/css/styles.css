@@ -262,3 +262,7 @@
             box-shadow: -5px 5px 15px rgba(0, 0, 0, .20);
             margin: 0 auto;
         }
+        .preparation-steps{
+            padding: var(--spacing-gutter-medium);
+            
+        }
